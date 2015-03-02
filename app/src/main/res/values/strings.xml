@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageGami</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="image_title">Image Title</string>
+    <string name="image_result">Image Result</string>
+    <string name="action_filters">Filters</string>
+    <string name="action_search">Search</string>
+    <string name="filter_search_results">Filter Search Results</string>
+    <string name="filter_hint_website">website</string>
+    <string name="action_share">Share</string>
+
+</resources>
